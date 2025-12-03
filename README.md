@@ -101,3 +101,7 @@ pkill -f ZeusCast.py
 
 ---
 ## Donate
+USDT(Binance Blockchain)
+```
+0x72F18129A47EA26176B9338E7Dd6A17434aABC8a
+```
